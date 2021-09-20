@@ -98,6 +98,7 @@ from 2013 | IT Departament | Kazakhstan / Zhezkazgan
 
 ---
 
-
+### English
+[Level A1](https://www.efset.org/cefr/a1) (According to EPAM Еraining center test)
 
 
