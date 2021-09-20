@@ -65,3 +65,23 @@ function absentVowel(x) {
 
 ---
 
+### Experience
+*JSC Temirbank*
+```
+2008 - 2012 | IT Departament | Kazakhstan / Almaty
+```
+
+- Custom reports and scripts in PL/SQL (Oracle) for banking system
+
+*[Kazakhmys PLC](https://www.linkedin.com/company/kazakhmys-plc?)*
+```
+from 2013 | IT Departament | Kazakhstan / Zhezkazgan
+```
+
+- Create reports in T-SQL (MS SQL Server)
+- Publish reports via [SQL Server Reporting Services (SSRS)](https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services)
+- Create Dashboards in [Grafana](https://grafana.com/)
+
+---
+
+
